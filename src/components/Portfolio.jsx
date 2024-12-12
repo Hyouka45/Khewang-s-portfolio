@@ -36,10 +36,6 @@ const Portfolio = () => {
             src: reactWeather,
             href:"https://hyouka45.github.io/weather-web-application/",
             code:"https://github.com/Hyouka45/weather-web-application.git"
-        },
-        {
-            id:5,
-            src: todolist
         }
     ]
   return (
